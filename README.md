@@ -50,7 +50,7 @@ href = "mailto:qa.grigorovich@gmail.com">
 
 I am a QA Engineer in game development and am happy to share my achievements in my work from time to time. Despite the fact that I often strive to focus specifically on the QA direction, I do not like to set boundaries and try to achieve something in related areas, such as development, art and analytics. I hope you will be interested in reading some of my work.
 
-<p>
+<p  align = "center">
 You might also be familiar with some of my projects:
 </p>
 
