@@ -1,11 +1,14 @@
-<!-- тело со шрифтом и стилем --> 
+<!-- тело со шрифтом и стилем
 <head>
 <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
 <style>
 body {font-family: 'Montserrat';font-size: 12px;}
 </style>
-</body>
 </head>
+<body>
+</body>
+</html>
+ --> 
 
 <!-- обложки моих игр
 ![PW.png](https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PHOTO/PW.png?raw=true)
