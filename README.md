@@ -2,16 +2,15 @@
 <head>
 <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
 <style>
-body {
-    font-family: 'Montserrat';font-size: 12px;
-}
+body {font-family: 'Montserrat';font-size: 12px;}
 </style>
+</body>
 </head>
-<body>
 
-<!-- обложки моих игр --> 
+<!-- обложки моих игр
 ![PW.png](https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PHOTO/PW.png?raw=true)
 ![Knives.png](https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PHOTO/Knives.png?raw=true)
+--> 
 
 <!-- обозначение должности --> 
 <p align = "center">
@@ -25,9 +24,9 @@ body {
 </h1>
 
 <!-- конктакты с соотв ссылками --> 
+<p align="center">
 <a
 href = "https://www.linkedin.com/in/diana-grigorovich-8b3680247/">
-<p align="center">
 <img width="20" height="20" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PHOTO/LinkedIn.png?raw=true">
 </a>
 <a
