@@ -11,8 +11,8 @@ body {font-family: 'Montserrat';font-size: 12px;}
  --> 
 
 <!-- обложки моих игр
-![PW.png](https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PHOTO/PW.png?raw=true)
-![Knives.png](https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PHOTO/Knives.png?raw=true)
+![PW.png](https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PICTURES/PW.png?raw=true)
+![Knives.png](https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PICTURES/Knives.png?raw=true)
 --> 
 
 <!-- обозначение должности --> 
@@ -30,15 +30,15 @@ body {font-family: 'Montserrat';font-size: 12px;}
 <p align="center">
 <a
 href = "https://www.linkedin.com/in/diana-grigorovich-8b3680247/">
-<img width="20" height="20" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PHOTO/LinkedIn.png?raw=true">
+<img width="20" height="20" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PICTURES/LinkedIn.png?raw=true">
 </a>
 <a
 href = "https://t.me/msgrigorovich">
-<img width="20" height="20" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PHOTO/telegram.png?raw=true">
+<img width="20" height="20" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PICTURES/telegram.png?raw=true">
 </a>
 <a
 href = "mailto:qa.grigorovich@gmail.com">
-<img width="20" height="20" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PHOTO/gmail.png?raw=true">
+<img width="20" height="20" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PICTURES/gmail.png?raw=true">
 </a>
 </p>
 
@@ -60,15 +60,15 @@ You might also be familiar with some of my projects:
 </p>
 
 <p align="center">
-<img width="100" height="30" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PHOTO/PW.png?raw=true">
-<img width="30" height="30" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PHOTO/Pixelwoods.jpeg?raw=true">
+<img width="100" height="30" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PICTURES/PW.png?raw=true">
+<img width="30" height="30" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PICTURES/Pixelwoods.jpeg?raw=true">
 <a
 href = "https://apps.apple.com/us/app/pixelwoods-coloring-decor/id1541658506">
-<img width="30" height="30" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PHOTO/AppStoreIcon.png?raw=true">
+<img width="30" height="30" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PICTURES/AppStoreIcon.png?raw=true">
 </a>
 <a
 href = "https://play.google.com/store/apps/details?id=com.beresnevgames.pixelgallery&hl=en_US">
-<img width="30" height="30" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PHOTO/GooglePlayIcon.png?raw=true">
+<img width="30" height="30" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PICTURES/GooglePlayIcon.png?raw=true">
 </a>
 </p>
 
@@ -80,15 +80,15 @@ href = "https://play.google.com/store/apps/details?id=com.beresnevgames.pixelgal
 <p align="center">
 <a
 href = "https://beresnev.games/en/games/flippy-knife">
-<img width="100" height="30" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PHOTO/Knives.png?raw=true">
+<img width="100" height="30" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PICTURES/Knives.png?raw=true">
 </a>
-<img width="30" height="30" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PHOTO/Flippyknive.png?raw=true">
+<img width="30" height="30" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PICTURES/Flippyknive.png?raw=true">
 <a
 href = "https://apps.apple.com/us/app/flippy-knife/id1208359453">
-<img width="30" height="30" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PHOTO/AppStoreIcon.png?raw=true">
+<img width="30" height="30" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PICTURES/AppStoreIcon.png?raw=true">
 </a>
 <a
 href = "https://play.google.com/store/apps/details?id=com.BeresnevGames.Knife&hl=en_US">
-<img width="30" height="30" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PHOTO/GooglePlayIcon.png?raw=true">
+<img width="30" height="30" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PICTURES/GooglePlayIcon.png?raw=true">
 </a>
 </p>
