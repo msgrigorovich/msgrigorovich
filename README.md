@@ -40,6 +40,10 @@ href = "https://t.me/msgrigorovich">
 href = "mailto:qa.grigorovich@gmail.com">
 <img width="20" height="20" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PICTURES/gmail.png?raw=true">
 </a>
+<a
+href = "https://www.youtube.com/@ms.grigorovich/playlists">
+<img width="20" height="20" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PICTURES/YoutubeIcon.png?raw=true">
+</a>
 </p>
 
 <!-- приветствие и описание себя --> 
