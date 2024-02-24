@@ -29,7 +29,7 @@ body {font-family: 'Montserrat';font-size: 12px;}
 <!-- иконки с ссылками на CV и Protfolio -->
 <p align="center">
 <a
-href = "">
+href = "https://drive.google.com/file/d/1yratWFrWeQ3XPx9yVL8mzctr3pdVQ2-m/view?usp=drive_link">
 <img width="20" height="20" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PICTURES/CV_icon.png?raw=true">
 </a>
 <a
