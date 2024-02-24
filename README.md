@@ -30,11 +30,11 @@ body {font-family: 'Montserrat';font-size: 12px;}
 <p align="center">
 <a
 href = "https://drive.google.com/file/d/1yratWFrWeQ3XPx9yVL8mzctr3pdVQ2-m/view?usp=drive_link">
-<img width="20" height="20" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PICTURES/CV_icon.png?raw=true">
+<img width="50" height="50" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PICTURES/CV_icon.png?raw=true">
 </a>
 <a
 href = "https://drive.google.com/file/d/1JM94S8CGH7G3XXsJIJE5NG62Zouy6MS6/view?usp=sharing">
-<img width="20" height="20" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PICTURES/Portfolio_icon.png?raw=true">
+<img width="50" height="50" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PICTURES/Portfolio_icon.png?raw=true">
 </a>
 </p>
 
