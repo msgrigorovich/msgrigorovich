@@ -26,6 +26,18 @@ body {font-family: 'Montserrat';font-size: 12px;}
     Diana Grigorovich
 </h1>
 
+<!-- иконки с ссылками на CV и Protfolio -->
+<p align="center">
+<a
+href = "">
+<img width="20" height="20" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PICTURES/CV_icon.png?raw=true">
+</a>
+<a
+href = "https://drive.google.com/file/d/1hxbaPMZeBi4KZkDI-MGHSkWlpYJDfEpx/view?usp=sharing">
+<img width="20" height="20" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PICTURES/Portfolio_icon.png?raw=true">
+</a>
+</p>
+
 <!-- конктакты с соотв ссылками --> 
 <p align="center">
 <a
