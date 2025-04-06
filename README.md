@@ -29,7 +29,7 @@ body {font-family: 'Montserrat';font-size: 12px;}
 <!-- иконки с ссылками на CV и Protfolio -->
 <p align="center">
 <a
-href = "https://drive.google.com/file/d/1tCkoI-sxrjHB6LMk-k1vAIMjxU_Wcq-E/view?usp=sharing">
+href = "https://drive.google.com/file/d/1d1dCSvo9_y6jJFkV6wRnpJHFPvdqAKxs/view?usp=sharing">
 <img width="50" height="50" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PICTURES/CV_icon.png?raw=true">
 </a>
 <a
@@ -49,7 +49,7 @@ href = "https://t.me/msgrigorovich">
 <img width="20" height="20" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PICTURES/telegram.png?raw=true">
 </a>
 <a
-href = "mailto:qa.grigorovich@gmail.com">
+href = "mailto:me@dianagrigorovich.com">
 <img width="20" height="20" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PICTURES/gmail.png?raw=true">
 </a>
 <a
