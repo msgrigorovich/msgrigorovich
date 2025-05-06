@@ -33,7 +33,7 @@ href = "https://drive.google.com/file/d/1d1dCSvo9_y6jJFkV6wRnpJHFPvdqAKxs/view?u
 <img width="50" height="50" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PICTURES/CV_icon.png?raw=true">
 </a>
 <a
-href = "https://drive.google.com/file/d/1JM94S8CGH7G3XXsJIJE5NG62Zouy6MS6/view?usp=sharing">
+href = "https://drive.google.com/file/d/1xPjmskvchZKoQrtWzIPVyFy3XozM_zA0/view?usp=sharing">
 <img width="50" height="50" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PICTURES/Portfolio_icon.png?raw=true">
 </a>
 </p>
