@@ -24,9 +24,11 @@
 <h3 align="center">Selected Work</h3>
 
 <p align="center">
-  <a href="https://github.com/msgrigorovich/PreventiveRegressionSignalingSystem"><picture><source media="(prefers-color-scheme: dark)" srcset="README_PICTURES/project-qalab-dark.svg"><img src="README_PICTURES/project-qalab-light.svg" width="228" height="160" alt="qalab: Unreal Engine ? QA Automation ? Telemetry ? Personal project ? In development"></picture></a>
-  <a href="https://dianagrigorovich.com/projects/testing-scope-framework/"><picture><source media="(prefers-color-scheme: dark)" srcset="README_PICTURES/project-scope-dark.svg"><img src="README_PICTURES/project-scope-light.svg" width="228" height="160" alt="QA Scope Framework: Risk-based testing ? Test scope design ? QA Scope Generator"></picture></a>
-  <a href="https://dianagrigorovich.com/projects/analytical-driven-qa/"><picture><source media="(prefers-color-scheme: dark)" srcset="README_PICTURES/project-data-dark.svg"><img src="README_PICTURES/project-data-light.svg" width="228" height="160" alt="Data-Driven QA: SQL ? Analytics validation ? Gameplay metrics ? Professional case study ? Anonymized examples"></picture></a>
+  <a href="https://github.com/msgrigorovich/PreventiveRegressionSignalingSystem"><picture><source media="(prefers-color-scheme: dark)" srcset="README_PICTURES/project-qalab-dark.svg"><img src="README_PICTURES/project-qalab-light.svg" width="228" height="160" alt="qalab: Unreal Engine · QA Automation · Telemetry · Personal project · In development"></picture></a>
+  <a href="https://dianagrigorovich.com/projects/testing-scope-framework/"><picture><source media="(prefers-color-scheme: dark)" srcset="README_PICTURES/project-scope-dark.svg"><img src="README_PICTURES/project-scope-light.svg" width="228" height="160" alt="QA Scope Framework: Risk-based testing · Test scope design · QA Scope Generator"></picture></a>
+  <a href="https://dianagrigorovich.com/projects/analytical-driven-qa/"><picture><source media="(prefers-color-scheme: dark)" srcset="README_PICTURES/project-data-dark.svg"><img src="README_PICTURES/project-data-light.svg" width="228" height="160" alt="Data-Driven QA: SQL · Analytics validation · Gameplay metrics · Professional case study · Anonymized examples"></picture></a>
 </p>
+
+<br>
 
 <p align="center">Tbilisi, Georgia</p>
